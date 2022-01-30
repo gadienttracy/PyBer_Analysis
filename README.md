@@ -16,5 +16,5 @@
  
  When comparing the Total Fares by City Type we can see that Urban fares are consistently the highest and Rural fares are the lowest.  All three city types saw a spike in fare prices near the end of February.
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary
   After reviewing the summary information three recommendations can be made. Increasing the number of drivers in Rural and Suburban city types could help to drive down the cost of fares for Rural and Suburban riders.  Increasing drivers could also help to increase Total Rides and therefore Total Fares. Finally, the sharp increase of fares in all three city types should be investigated in late February to see the cause and offer promos to riders during peak times in order to encourage ridership with consistent fares.
